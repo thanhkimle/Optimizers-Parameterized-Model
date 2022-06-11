@@ -1,0 +1,6 @@
+__pycache__
+.pytest_cache
+comments.txt
+points.txt
+*pdf
+grade_optimization.py
